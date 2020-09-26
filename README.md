@@ -12,7 +12,7 @@ Infrastructure is **Everything**... Do you have one?
 
 {% for offering in site.offerings %}
   <div style="display: inline-block; width: 45%;">
-    <span><i class="fas fa-{{ offering.icon }}  fa-8x center"></i></span><br>
+    <div style="height: 100px;"><i class="fas fa-{{ offering.icon }}  fa-8x center"></i></div><br>
     <span><p class="center"><b>{{ offering.title }}</b></p></span>
     <hr>
     <p>{{ offering.content | markdownify }}</p>
