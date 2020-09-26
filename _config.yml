@@ -1,3 +1,4 @@
 theme: jekyll-theme-architect
+collections_dir: my_collections
 collections:
   - offerings
