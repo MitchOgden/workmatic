@@ -1,6 +1,12 @@
 <head>
   <link href="assets/css/all.css" rel="stylesheet"> <!--load all styles -->
 </head>
+<style> 
+  .center { 
+    text-align: center; 
+    width: 100%; 
+  } 
+</style> 
 
 ## Become a SuperHuman Business Owner thru workflow Automation, streamlined Communication, paperwork Digitization, and team Synchronization.   
 
@@ -12,7 +18,7 @@ Infrastructure is **Everything**... Do you have one?
 
 {% for offering in site.offerings %}
   <div style="display: inline-block; width: 50%;">
-    <td style="text-align: center;"><i class="fas fa-{{ offering.icon }}  fa-8x"></i></td><br>
+    <span><i class="fas fa-{{ offering.icon }}  fa-8x center"></i></span><br>
     <b>{{ offering.title }}</b>
     <hr>
     <p>{{ offering.content | markdownify }}</p>
