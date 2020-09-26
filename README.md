@@ -1,10 +1,10 @@
 <head>
-  <link href="assets/css/all.css" rel="stylesheet"> <!--load all styles -->
-  <style> 
-  .center { 
-    text-align: center; 
-    width: 100%; 
-  } 
+<link href="assets/css/all.css" rel="stylesheet"> <!--load all styles -->
+<style> 
+.center { 
+  text-align: center; 
+  width: 100%; 
+} 
 </style>
 </head> 
 
