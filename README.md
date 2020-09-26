@@ -1,5 +1,5 @@
 <head>
-  <link href="workmatic/assets/css/all.css" rel="stylesheet"> <!--load all styles -->
+  <link href="assets/css/all.css" rel="stylesheet"> <!--load all styles -->
 </head>
 
 ## Become a SuperHuman Business Owner thru workflow Automation, streamlined Communication, paperwork Digitization, and team Synchronization.   
