@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Become a SuperHuman Business Owner thru Automation 
 
 You can use the [editor on GitHub](https://github.com/MitchOgden/workmatic/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
