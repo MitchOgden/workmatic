@@ -4,10 +4,10 @@ Having a solid infrastructure in place can make or break a business. It's the di
 
 Infrastructure is **Everything**... Do you have one?
 
-### What can WorkMatic do for you?
+## What can WorkMatic do for you?
 
 {% for offering in site.offerings %}
-  <h2><i class="fas fa-{{ offering.icon }}"></i></h2>
+  <h3><i class="fas fa-{{ offering.icon }}"></i></h3>
   <b>{{ offering.Title }}</b>
   <p>{{ offering.content | markdownify }}</p>
 {% endfor %}
