@@ -1,8 +1,6 @@
-## Become a SuperHuman Business Owner thru Automation 
+## Become a SuperHuman Business Owner thru workflow Automation, streamlined Communication, paperwork Digitization, and team Synchronization.   
 
-You can use the [editor on GitHub](https://github.com/MitchOgden/workmatic/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Having a solid infrastructure in place can make or break a business. It's the difference between being scalable or having bottlenecks. Knowing exactly how your business is performing right now versus when your bookkeeper decides to run profit & loss reports. Being agile to change or stumbling and falling behind your competition.
 
 ### Markdown
 
