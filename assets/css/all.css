@@ -6,6 +6,19 @@
   width: 100%; 
 }
 
+.offering-text {
+  height: 8em;
+  line-height: 1.2em;
+  overflow: hidden;
+  padding: 5px;
+}
+
+@media only screen and (max-width: 600px) {
+  .offering-text {
+    height: 17em;
+  }
+}
+
 /*!
  * Font Awesome Free 5.14.0 by @fontawesome - https://fontawesome.com
  * License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License)
