@@ -1,4 +1,6 @@
-<link href="http://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
+<head>
+  <link href="/css/all.css" rel="stylesheet"> <!--load all styles -->
+</head>
 
 ## Become a SuperHuman Business Owner thru workflow Automation, streamlined Communication, paperwork Digitization, and team Synchronization.   
 
