@@ -1,12 +1,12 @@
 <head>
   <link href="assets/css/all.css" rel="stylesheet"> <!--load all styles -->
-</head>
-<style> 
+  <style> 
   .center { 
     text-align: center; 
     width: 100%; 
   } 
-</style> 
+</style>
+</head> 
 
 ## Become a SuperHuman Business Owner thru workflow Automation, streamlined Communication, paperwork Digitization, and team Synchronization.   
 
