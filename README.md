@@ -11,9 +11,9 @@ Infrastructure is **Everything**... Do you have one?
 ## What can WorkMatic do for you?
 
 {% for offering in site.offerings %}
-  <div style="display: inline-block;
-    width: 33.3%;"><i class="fas fa-{{ offering.icon }}  fa-10x"></i>
-  <b>{{ offering.title }}</b>
-  <p>{{ offering.content | markdownify }}</p>
+  <div style="display: inline-block; width: 33.3%;">
+    <span><i class="fas fa-{{ offering.icon }}  fa-10x"></i></span>
+    <b>{{ offering.title }}</b>
+    <p>{{ offering.content | markdownify }}</p>
   </div>
 {% endfor %}
