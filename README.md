@@ -14,8 +14,8 @@ Infrastructure is **Everything**... Do you have one?
   <div style="display: inline-block; width: 50%;  float:left;">
     <div style="height: 100px;"><i class="fas fa-{{ offering.icon }}  fa-6x center"></i></div><br>
     <span><p class="center"><b>{{ offering.title }}</b></p></span>
-    <div style="padding: 5px;"><hr></div>
     <div style="padding: 5px;">
+      <hr>
       <p>{{ offering.content | markdownify }}</p>
     </div>
   </div>
